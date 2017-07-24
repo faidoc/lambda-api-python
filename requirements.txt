@@ -1,0 +1,11 @@
+Flask
+Flask-RESTful
+Flask-Marshmallow
+pynamodb
+zappa
+
+# Documentation
+sphinx
+
+# Unit Testing
+nose
